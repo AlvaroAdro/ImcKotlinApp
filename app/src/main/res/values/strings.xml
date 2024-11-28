@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="ic_male">hombre</string>
+    <string name="ic_female">mujer</string>
+    <string name="ic_height">altura</string>
+    <string name="ic_weight">peso</string>
+    <string name="ic_age">edad</string>
+</resources>
